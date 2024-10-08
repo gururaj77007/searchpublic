@@ -1,0 +1,10 @@
+Flask
+pandas
+tensorflow
+tqdm
+pinecone-client
+sentence-transformers
+symspellpy
+scikit-learn
+numpy
+pymongo
